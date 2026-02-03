@@ -26,8 +26,8 @@ This bot is designed for educational purposes to demonstrate **Discord bot devel
 
 Open **Command Prompt** or **PowerShell** as **Administrator** and run:
 
-**text**  
-pip install discord.py requests pyinstaller
+ 
+**pip install discord.py requests pyinstaller**
 
 ---
 
@@ -83,8 +83,7 @@ To create a standalone executable from **bot.py**:
 
 ### Using PyInstaller
 
-**text**  
-pyinstaller --onefile --noconsole bot.py
+**pyinstaller --onefile --noconsole bot.py**
 
 **Command parameters:**
 
@@ -109,8 +108,7 @@ Run the executable with **administrative privileges**
 
 **Option 1: Run Python script directly**
 
-**text**  
-python bot.py
+**python bot.py**
 
 **Option 2: Run compiled executable**
 
