@@ -236,9 +236,9 @@ For antivirus false positives (common with PyInstaller):
 
 ## File Structure
   
-**bot.py                    # Main Python script  **
-**dist/bot.exe              # Compiled executable (after PyInstaller)  **
-**build/                    # PyInstaller build directory  **
+bot.py                    # Main Python script
+dist/bot.exe              # Compiled executable (after PyInstaller)
+build/                    # PyInstaller build directory
 
 ---
 
